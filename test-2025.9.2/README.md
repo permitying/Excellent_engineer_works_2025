@@ -1,10 +1,4 @@
-# 提交要求
-## 机械
-- STEP格式3d文件
-- 包含各个角度图片的`README.md`文件
-## 编程
-- 源代码文件
-- 包含有输入输出的运行截图的`README.md`文件
-## 视觉
-- 数据集文件夹（非压缩包）
-- 包含运行视频的`README.md`文件
+
+
+https://github.com/user-attachments/assets/3d0b2cb7-1fce-4641-8f7d-b5ed44baa632
+
